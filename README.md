@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everything Data Science 
 - 🤔 I’m looking for help with breaking down technical concepts in Data Science
 - 💬 Ask me about my learning journey
-- 📫 How to reach me: twitter.com/nick_the_didact
-- 😄 Pronouns: he/him/his
+- 📫 How to reach me: https://twitter.com/nick_the_didact
 
