@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 -->
 ### About me:
-- 🔭 I’m currently working on building my technical skills in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science in the NG 30 Days Of Learning
-- 👯 I’m looking to collaborate on everything Data Science 
-- 🤔 I’m looking for help with breaking down technical concepts in Data Science
+- 🔭 I’m currently working on building my technical skills in Python Development.
+- 🌱 I’m currently learning Data Analysis at ALX-T Data Analyst Program.
+- 🤔 Looking for help with breaking down technical concepts
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: https://twitter.com/nick_the_didact
 
